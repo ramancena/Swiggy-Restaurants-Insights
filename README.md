@@ -1,31 +1,34 @@
-Swiggy Restaurant Insights 🍰 📈 🥤
-Overview:
+# Swiggy Restaurant Insights 🍰 📈 🥤
+
+## Overview:
 Explore and analyze Swiggy Restaurants dataset using Python to gain valuable insights into the restaurant landscape on the Swiggy platform.
 
-Project Highlights:
-Data Source:
-Utilized the Swiggy Restaurants dataset for analysis.
+## Project Highlights:
 
-Objective:
-Gain insights into restaurant-related metrics and trends.
+- **Data Source:**
+  Utilized the Swiggy Restaurants dataset for analysis.
 
-Key Steps:
-Data Exploration:
+- **Objective:**
+  Gain insights into restaurant-related metrics and trends.
 
-Investigated the structure and contents of the Swiggy Restaurants dataset.
-Data Cleaning:
+## Key Steps:
 
-Cleaned the dataset to handle missing values, outliers, and ensure data quality.
-Exploratory Data Analysis (EDA):
+1. **Data Exploration:**
+   - Investigated the structure and contents of the Swiggy Restaurants dataset.
 
-Conducted in-depth analysis on various aspects like restaurant ratings, cuisines, delivery times, and customer reviews.
-Visualization:
+2. **Data Cleaning:**
+   - Cleaned the dataset to handle missing values, outliers, and ensure data quality.
 
-Utilized Python libraries for data visualization to present key findings through graphs and charts.
-Insights and Recommendations:
+3. **Exploratory Data Analysis (EDA):**
+   - Conducted in-depth analysis on various aspects like restaurant ratings, cuisines, delivery times, and customer reviews.
 
-Extracted meaningful insights from the analysis and provided recommendations based on the findings.
-Technologies Used:
-Python for data analysis and visualization.
-Pandas and NumPy for data manipulation.
-Matplotlib and Seaborn for data visualization.
+4. **Visualization:**
+   - Utilized Python libraries for data visualization to present key findings through graphs and charts.
+
+5. **Insights and Recommendations:**
+   - Extracted meaningful insights from the analysis and provided recommendations based on the findings.
+
+## Technologies Used:
+- Python for data analysis and visualization.
+- Pandas and NumPy for data manipulation.
+- Matplotlib and Seaborn for data visualization.
